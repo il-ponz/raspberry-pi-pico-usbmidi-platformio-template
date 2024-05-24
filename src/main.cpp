@@ -19,8 +19,8 @@ void setup() {
   Serial.begin(115200);
   Serial.println("Hello World!");
 
-  TinyUSBDevice.setManufacturerDescriptor("MadsKjeldgaard");
-  TinyUSBDevice.setProductDescriptor("Pico Blinkity Blinky");
+  TinyUSBDevice.setManufacturerDescriptor("il ponz");
+  TinyUSBDevice.setProductDescriptor("esp32");
 
   usbMidi.begin();
   MIDI.begin();
