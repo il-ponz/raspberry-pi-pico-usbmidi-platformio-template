@@ -6,6 +6,8 @@ A simple template for creating an Arduino-based project for the Raspberry Pi Pic
 
 It is pre-setup with everything needed to make a USB MIDI controller and can be easily modified for other purposes.
 
+For a more general purpose arduino/platformio template that works with most of the popular boards, [see this template](https://github.com/madskjeldgaard/platformio-arduino-template).
+
 ## Features
 
 - Platformio-based – easy to compile and upload, gets dependencies automatically
